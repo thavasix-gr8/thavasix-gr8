@@ -11,7 +11,7 @@
 
 ### `> unlearning. relearning. building.`
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Exploring+ideas%2C+building+things;Learning+through+practice+%26+iteration;Still+figuring+things+out...;And+that%27s+the+point.)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Exploring+ideas%2C+building+things;Learning+through+practice+%26+iteration;Still+figuring+things+out...;And+that%27s+the+point." />
 
 </div>
 
@@ -48,6 +48,7 @@ focus:
   - development
   - real-world problem solving
 approach: pragmatic
+status: always_learning
 ```
 
 ---
@@ -58,9 +59,9 @@ $ cat open_to.txt
 
 | Type | Status |
 |------|--------|
-| Collaboration | `OPEN` |
-| Learning Opportunities | `OPEN` |
-| Meaningful Discussions | `OPEN` |
+| 🤝 Collaboration | `OPEN` |
+| 📚 Learning Opportunities | `OPEN` |
+| 💬 Meaningful Discussions | `OPEN` |
 
 ---
 
@@ -73,6 +74,6 @@ $ cat open_to.txt
 ╚══════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=thavasix-gr8&color=00ff88&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=thavasix-gr8&color=00ff88&style=flat-square" />
 
 </div>
