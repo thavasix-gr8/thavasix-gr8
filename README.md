@@ -3,10 +3,10 @@
 ```
 ████████╗██╗  ██╗ █████╗ ██╗   ██╗ █████╗ ███████╗██╗██╗  ██╗
 ╚══██╔══╝██║  ██║██╔══██╗██║   ██║██╔══██╗██╔════╝██║╚██╗██╔╝
-   ██║   ███████║███████║██║   ██║███████║███████╗██║ ╚███╔╝ 
-   ██║   ██╔══██║██╔══██║╚██╗ ██╔╝██╔══██║╚════██║██║ ██╔██╗ 
-   ██║   ██║  ██║██║  ██║ ╚████╔╝ ██║  ██║███████║██║██╔╝ ██╗
-   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝
+  ██║   ███████║███████║██║   ██║███████║███████╗██║ ╚███╔╝ 
+  ██║   ██╔══██║██╔══██║╚██╗ ██╔╝██╔══██║╚════██║██║ ██╔██╗ 
+  ██║   ██║  ██║██║  ██║ ╚████╔╝ ██║  ██║███████║██║██╔╝ ██╗
+  ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝
 ```
 
 `> unlearning. relearning. building.`
@@ -15,63 +15,57 @@
 
 ---
 
-```bash
-$ whoami
-```
+## `~/thavasix-gr8 $ whoami`
 
-Someone who believes in **unlearning and relearning** — constantly evolving, experimenting, and figuring things out along the way.
-
----
-
-```bash
-$ cat current_status.log
-```
-
-```
-[●] Exploring ideas and building projects
-[●] Learning through practice and iteration
-[○] Figuring out what comes next...
-[○] Still figuring it out
-```
+> Someone who believes in **unlearning and relearning** —
+> constantly evolving, experimenting, and figuring things out along the way.
 
 ---
 
-```bash
-$ cat tools.conf
-```
+## `~/thavasix-gr8 $ cat current_status.log`
+
+| | |
+|---|---|
+| 🟢 Exploring ideas & building | 🟢 Learning by iteration |
+| ⚪ What comes next... | ⚪ Still figuring it out |
+
+---
+
+## `~/thavasix-gr8 $ cat tools.conf`
 
 ```yaml
 philosophy: "use whatever fits the problem"
 focus:
-  - development
-  - real-world problem solving
+- development
+- real-world problem solving
 approach: pragmatic
 status: always_learning
 ```
 
 ---
 
-```bash
-$ cat open_to.txt
-```
+## `~/thavasix-gr8 $ cat open_to.txt`
 
 | TYPE | STATUS |
 |------|--------|
-| ⚡ Collaboration | `OPEN` |
-| ⚙️ Learning Opportunities | `OPEN` |
-| 💻 Meaningful Discussions | `OPEN` |
+| 🤝 Collaboration | `OPEN` |
+| 📚 Learning Opportunities | `OPEN` |
+| 💬 Meaningful Discussions | `OPEN` |
+| Collaboration | `OPEN` |
+| Learning Opportunities | `OPEN` |
+| Meaningful Discussions | `OPEN` |
 
 ---
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════╗
-║  still learning. still building.     ║
-║  still figuring things out.          ║
-╚══════════════════════════════════════╝
+╔══════════════════════════════════════════╗
+║  still learning. still building.         ║
+║  still figuring things out.              ║
+╚══════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=thavasix-gr8&color=00ff88&style=flat&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=thavasix-gr8&color=00ff41&style=flat-square&label=profile+views)
 
 </div>
