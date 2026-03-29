@@ -1,28 +1,46 @@
 <div align="center">
 
-![header](./header.svg)
+```
+████████╗██╗  ██╗ █████╗ ██╗   ██╗ █████╗ ███████╗██╗██╗  ██╗
+╚══██╔══╝██║  ██║██╔══██╗██║   ██║██╔══██╗██╔════╝██║╚██╗██╔╝
+   ██║   ███████║███████║██║   ██║███████║███████╗██║ ╚███╔╝ 
+   ██║   ██╔══██║██╔══██║╚██╗ ██╔╝██╔══██║╚════██║██║ ██╔██╗ 
+   ██║   ██║  ██║██║  ██║ ╚████╔╝ ██║  ██║███████║██║██╔╝ ██╗
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝
+```
+
+### `> unlearning. relearning. building.`
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Exploring+ideas%2C+building+things;Learning+through+practice+%26+iteration;Still+figuring+things+out...;And+that%27s+the+point.)
 
 </div>
 
 ---
 
-## `~/thavasix-gr8 $ whoami`
+```bash
+$ whoami
+```
 
-> Someone who believes in **unlearning and relearning** —
+> Someone who believes in **unlearning and relearning** —  
 > constantly evolving, experimenting, and figuring things out along the way.
 
 ---
 
-## `~/thavasix-gr8 $ cat current_status.log`
+```bash
+$ cat current_status.log
+```
 
-| | |
-|---|---|
-| 🟢 Exploring ideas & building | 🟢 Learning by iteration |
-| ⚪ What comes next... | ⚪ Still figuring it out |
+```
+[●] Exploring ideas and building projects
+[●] Learning through practice and iteration
+[○] Figuring out what comes next...
+```
 
 ---
 
-## `~/thavasix-gr8 $ cat tools.conf`
+```bash
+$ cat tools.conf
+```
 
 ```yaml
 philosophy: "use whatever fits the problem"
@@ -30,14 +48,15 @@ focus:
   - development
   - real-world problem solving
 approach: pragmatic
-status: always_learning
 ```
 
 ---
 
-## `~/thavasix-gr8 $ cat open_to.txt`
+```bash
+$ cat open_to.txt
+```
 
-| TYPE | STATUS |
+| Type | Status |
 |------|--------|
 | 🤝 Collaboration | `OPEN` |
 | 📚 Learning Opportunities | `OPEN` |
@@ -48,12 +67,12 @@ status: always_learning
 <div align="center">
 
 ```
-╔══════════════════════════════════════════╗
-║  still learning. still building.         ║
-║  still figuring things out.              ║
-╚══════════════════════════════════════════╝
+╔══════════════════════════════════════╗
+║  still learning. still building.     ║
+║  still figuring things out.          ║
+╚══════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=thavasix-gr8&color=00ff41&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=thavasix-gr8&color=00ff88&style=flat-square)
 
 </div>
