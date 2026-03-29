@@ -1,32 +1,78 @@
-<h2>Hi there</h2>
+<div align="center">
 
-<p>
-I'm someone who believes in <strong>unlearning and relearning</strong> — constantly evolving, experimenting, and figuring things out along the way.
-</p>
+```
+████████╗██╗  ██╗ █████╗ ██╗   ██╗ █████╗ ███████╗██╗██╗  ██╗
+╚══██╔══╝██║  ██║██╔══██╗██║   ██║██╔══██╗██╔════╝██║╚██╗██╔╝
+   ██║   ███████║███████║██║   ██║███████║███████╗██║ ╚███╔╝ 
+   ██║   ██╔══██║██╔══██║╚██╗ ██╔╝██╔══██║╚════██║██║ ██╔██╗ 
+   ██║   ██║  ██║██║  ██║ ╚████╔╝ ██║  ██║███████║██║██╔╝ ██╗
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝
+```
 
-<hr>
+### `> unlearning. relearning. building.`
 
-<h3>What I'm up to</h3>
-<ul>
-  <li>Exploring ideas and building projects</li>
-  <li>Learning through practice and iteration</li>
-</ul>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Exploring+ideas%2C+building+things;Learning+through+practice+%26+iteration;Still+figuring+things+out...;And+that%27s+the+point.)
 
-<h3>Tools & Tech</h3>
-<ul>
-  <li>Using whatever fits the problem</li>
-  <li>Focused on development and real-world problem solving</li>
-</ul>
+</div>
 
-<h3>Open to</h3>
-<ul>
-  <li>Collaboration</li>
-  <li>Learning opportunities</li>
-  <li>Meaningful discussions</li>
-</ul>
+---
 
-<hr>
+```bash
+$ whoami
+```
 
-<p align="center">
-  <em>Still learning. Still building. Still figuring things out.</em>
-</p>
+> Someone who believes in **unlearning and relearning** —  
+> constantly evolving, experimenting, and figuring things out along the way.
+
+---
+
+```bash
+$ cat current_status.log
+```
+
+```
+[●] Exploring ideas and building projects
+[●] Learning through practice and iteration
+[○] Figuring out what comes next...
+```
+
+---
+
+```bash
+$ cat tools.conf
+```
+
+```yaml
+philosophy: "use whatever fits the problem"
+focus:
+  - development
+  - real-world problem solving
+approach: pragmatic
+```
+
+---
+
+```bash
+$ cat open_to.txt
+```
+
+| Type | Status |
+|------|--------|
+| Collaboration | `OPEN` |
+| Learning Opportunities | `OPEN` |
+| Meaningful Discussions | `OPEN` |
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════╗
+║  still learning. still building.     ║
+║  still figuring things out.          ║
+╚══════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=thavasix-gr8&color=00ff88&style=flat-square)
+
+</div>
