@@ -15,23 +15,30 @@
 
 ---
 
-## `~/thavasix-gr8 $ whoami`
+```bash
+$ whoami
+```
 
-> Someone who believes in **unlearning and relearning** —
-> constantly evolving, experimenting, and figuring things out along the way.
-
----
-
-## `~/thavasix-gr8 $ cat current_status.log`
-
-| | |
-|---|---|
-| 🟢 Exploring ideas & building | 🟢 Learning by iteration |
-| ⚪ What comes next... | ⚪ Still figuring it out |
+Someone who believes in **unlearning and relearning** — constantly evolving, experimenting, and figuring things out along the way.
 
 ---
 
-## `~/thavasix-gr8 $ cat tools.conf`
+```bash
+$ cat current_status.log
+```
+
+```
+[●] Exploring ideas and building projects
+[●] Learning through practice and iteration
+[○] Figuring out what comes next...
+[○] Still figuring it out
+```
+
+---
+
+```bash
+$ cat tools.conf
+```
 
 ```yaml
 philosophy: "use whatever fits the problem"
@@ -44,25 +51,27 @@ status: always_learning
 
 ---
 
-## `~/thavasix-gr8 $ cat open_to.txt`
+```bash
+$ cat open_to.txt
+```
 
 | TYPE | STATUS |
 |------|--------|
-| Collaboration | `OPEN` |
-| Learning Opportunities | `OPEN` |
-| Meaningful Discussions | `OPEN` |
+| ⚡ Collaboration | `OPEN` |
+| ⚙️ Learning Opportunities | `OPEN` |
+| 💻 Meaningful Discussions | `OPEN` |
 
 ---
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════╗
-║  still learning. still building.         ║
-║  still figuring things out.              ║
-╚══════════════════════════════════════════╝
+╔══════════════════════════════════════╗
+║  still learning. still building.     ║
+║  still figuring things out.          ║
+╚══════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=thavasix-gr8&color=00ff41&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=thavasix-gr8&color=00ff88&style=flat&label=PROFILE+VIEWS)
 
 </div>
