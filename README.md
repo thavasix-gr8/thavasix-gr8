@@ -54,6 +54,5 @@ status: always_learning
 ╚══════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=thavasix-gr8&color=00ff41&style=flat-square&label=profile+views)
 
 </div>
