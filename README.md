@@ -1,15 +1,6 @@
 <div align="center">
 
-```
-████████╗██╗  ██╗ █████╗ ██╗   ██╗ █████╗ ███████╗██╗██╗  ██╗
-╚══██╔══╝██║  ██║██╔══██╗██║   ██║██╔══██╗██╔════╝██║╚██╗██╔╝
-  ██║   ███████║███████║██║   ██║███████║███████╗██║ ╚███╔╝ 
-  ██║   ██╔══██║██╔══██║╚██╗ ██╔╝██╔══██║╚════██║██║ ██╔██╗ 
-  ██║   ██║  ██║██║  ██║ ╚████╔╝ ██║  ██║███████║██║██╔╝ ██╗
-  ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝
-```
-
-`> unlearning. relearning. building.`
+![header](./header.svg)
 
 </div>
 
@@ -36,8 +27,8 @@
 ```yaml
 philosophy: "use whatever fits the problem"
 focus:
-- development
-- real-world problem solving
+  - development
+  - real-world problem solving
 approach: pragmatic
 status: always_learning
 ```
@@ -51,9 +42,6 @@ status: always_learning
 | 🤝 Collaboration | `OPEN` |
 | 📚 Learning Opportunities | `OPEN` |
 | 💬 Meaningful Discussions | `OPEN` |
-| Collaboration | `OPEN` |
-| Learning Opportunities | `OPEN` |
-| Meaningful Discussions | `OPEN` |
 
 ---
 
