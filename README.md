@@ -39,9 +39,9 @@ status: always_learning
 
 | TYPE | STATUS |
 |------|--------|
-| Collaboration | `OPEN` |
-| Learning Opportunities | `OPEN` |
-| Meaningful Discussions | `OPEN` |
+| 🤝 Collaboration | `OPEN` |
+| 📚 Learning Opportunities | `OPEN` |
+| 💬 Meaningful Discussions | `OPEN` |
 
 ---
 
