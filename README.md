@@ -1,16 +1,32 @@
-## Hi there 👋
+<h2>Hi there</h2>
 
-<!--
-**thavasix-gr8/thavasix-gr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+I'm someone who believes in <strong>unlearning and relearning</strong> — constantly evolving, experimenting, and figuring things out along the way.
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>What I'm up to</h3>
+<ul>
+  <li>Exploring ideas and building projects</li>
+  <li>Learning through practice and iteration</li>
+</ul>
+
+<h3>Tools & Tech</h3>
+<ul>
+  <li>Using whatever fits the problem</li>
+  <li>Focused on development and real-world problem solving</li>
+</ul>
+
+<h3>Open to</h3>
+<ul>
+  <li>Collaboration</li>
+  <li>Learning opportunities</li>
+  <li>Meaningful discussions</li>
+</ul>
+
+<hr>
+
+<p align="center">
+  <em>Still learning. Still building. Still figuring things out.</em>
+</p>
